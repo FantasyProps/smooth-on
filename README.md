@@ -4,4 +4,4 @@
 
 ## Downloads
 
-* [Excel File](https://github.com/johnantoni/smooth-on/blob/master/smooth-on.xlsx)
+* [Excel File](https://github.com/johnantoni/smooth-on/raw/master/smooth-on.xlsx)
